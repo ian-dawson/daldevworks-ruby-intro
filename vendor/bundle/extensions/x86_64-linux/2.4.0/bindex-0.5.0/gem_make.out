@@ -1,0 +1,15 @@
+current directory: /home/ian/workspace/ruby-on-rails-tutorial/address_book/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby -r ./siteconf20170531-23877-11d2xeg.rb extconf.rb
+creating Makefile
+
+current directory: /home/ian/workspace/ruby-on-rails-tutorial/address_book/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/ian/workspace/ruby-on-rails-tutorial/address_book/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/ian/workspace/ruby-on-rails-tutorial/address_book/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20170531-23877-18cu9o1/bindex
